@@ -4,14 +4,14 @@
 
 
 1. Pour les tailles d'écran supérieur a 1023px
-   ![sup1023px](pc.png)
+![sup1023px](img/pc.png)
  
 <br><br><br>
 
 2. Pour les tailles d'écran supérieur a 768px & inférieur a 1023px
-![sup1023px](tablette.png)
+![sup1023px](img/tablette.png)
 
 <br><br><br>
 
 3. Pour les tailles d'écran inférieur a 767px (Toutes les couleurs sont affichées, chacune d'elles prend toute la largeur.)
-![sup1023px](mobile.png)
+![sup1023px](img/mobile.png)
