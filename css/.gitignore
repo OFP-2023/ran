@@ -1,3 +1,5 @@
-css-animation/
-css-advanced/
-responsive/
+# Exclure tous les dossiers
+*/
+
+# Autoriser les fichiers .zip
+!*.zip
